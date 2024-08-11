@@ -1,0 +1,14 @@
+{
+	"name": "vercel-deployment",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/server.js",
+	"scripts": {
+		"start": "node src/server.js"
+	},
+	"author": "Tushar Biswas",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.19.2"
+	}
+}
